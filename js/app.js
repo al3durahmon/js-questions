@@ -1,0 +1,11 @@
+console.log(alert("Welcome to my site!"));
+console.log(prompt("what's your name?"));
+console.log(prompt("what's your lastname?"));
+console.log(alert("Are you ready for questions?"));
+console.log(prompt("When was javascript created?"));
+console.log(prompt("File types..."));
+console.log(prompt("javascript is a product of which company?"));
+console.log(prompt("What is javascript?"));
+console.log(prompt("javascript variables..."));
+console.log(prompt("javascript short name..."));
+console.log(alert("Thank you for your time!"));
